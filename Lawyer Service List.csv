@@ -1,0 +1,157 @@
+Lawyer Code, Service Code, Service Name, Charges
+L111,S3, Divorce,15000
+L86,S13,Book-keeping,1800
+L159, S2, Trademark Filing,5000
+L102,S11,Accounting,12000
+L86,S6,Company Registration,30000
+L239,S8,PAN Card,999
+L211,S20,Annual Return Filing,25000
+L202,S18,Copyright Registration,1500
+L255,S3, Divorce,15000
+L120, S1, LLP Registration,10000
+L222,S11,Accounting,14000
+L220,S15,Death Certificate,1000
+L9,S3, Divorce,10000
+L83,S20,Annual Return Filing,15000
+L183, S2, Trademark Filing,8000
+L277,S10,Form a Trust,20000
+L165,S19,Patent filing,10000
+L118, S1, LLP Registration,20000
+L299, S2, Trademark Filing,7000
+L171,S6,Company Registration,12000
+L46,S7,NGO Registration,50000
+L4,S8,PAN Card,299
+L269,S3, Divorce,15000
+L168, S2, Trademark Filing,12000
+L160,S11,Accounting,18000
+L235,S7,NGO Registration,35000
+L20,S11,Accounting,10000
+L278, S2, Trademark Filing,10000
+L78,S8,PAN Card,200
+L25,S10,Form a Trust,11000
+L9,S8,PAN Card,199
+L117,S5,Trademark Objection,4000
+L213,S3, Divorce,12000
+L118,S13,Book-keeping,2000
+L290,S3, Divorce,20000
+L130,S8,PAN Card,299
+L86,S20,Annual Return Filing,12000
+L62,S10,Form a Trust,20000
+L163,S8,PAN Card,250
+L101,S7,NGO Registration,15000
+L243, S2, Trademark Filing,10000
+L170,S11,Accounting,10000
+L170,S13,Book-keeping,1000
+L202, S2, Trademark Filing,5000
+L278,S19,Patent filing,25000
+L272,S4, LLP Registration,15000
+L10,S11,Accounting,12000
+L212,S15,Death Certificate,1899
+L249,S10,Form a Trust,10000
+L247,S8,PAN Card,200
+L165, S2, Trademark Filing,8000
+L253,S13,Book-keeping,999
+L240,S7,NGO Registration,18000
+L243,S19,Patent filing,25000
+L286,S10,Form a Trust,20000
+L200,S10,Form a Trust,40000
+L173,S11,Accounting,15000
+L299,S19,Patent filing,20000
+L232, S2, Trademark Filing,5000
+L264,S19,Patent filing,15000
+L44,S20,Annual Return Filing,10000
+L222,S13,Book-keeping,1500
+L227,S13,Book-keeping,1000
+L240,S10,Form a Trust,16000
+L9,S16,Passport,4999
+L78,S3, Divorce,10000
+L5,S19,Patent filing,10000
+L235,S10,Form a Trust,50000
+L67,S3, Divorce,10000
+L9,S15,Death Certificate,6000
+L42,S19,Patent filing,10000
+L42, S2, Trademark Filing,15000
+L253,S12,Auditing,10000
+L244,S7,NGO Registration,5000
+L188,S3, Divorce,15000
+L20,S12,Auditing,5000
+L10, S1, LLP Registration,10001
+L42,S6,Company Registration,9999
+L101,S6,Company Registration,10000
+L46,S10,Form a Trust,22000
+L253,S20,Annual Return Filing,100000
+L103,S13,Book-keeping,1500
+L86,S12,Auditing,5600
+L165,S18,Copyright Registration,3000
+L200,S7,NGO Registration,45000
+L183,S18,Copyright Registration,2000
+L112,S8,PAN Card,250
+L171, S1, LLP Registration,15000
+L102,S9,Form a Society,10000
+L62,S9,Form a Society,15000
+L54,S17,Property Registration,9999
+L224, S2, Trademark Filing,10000
+L227,S12,Auditing,5000
+L290,S10,Form a Trust,20000
+L118,S10,Form a Trust,15000
+L280, S2, Trademark Filing,8000
+L20,S13,Book-keeping,10000
+L264, S2, Trademark Filing,5000
+L175,S6,Company Registration,25000
+L183,S5,Trademark Objection,5000
+L70,S11,Accounting,25000
+L292,S10,Form a Trust,15000
+L173, S1, LLP Registration,8000
+L164,S10,Form a Trust,25000
+L147,S8,PAN Card,300
+L25, S1, LLP Registration,10000
+L38,S11,Accounting,20000
+L258,S20,Annual Return Filing,20000
+L167,S19,Patent filing,10000
+L65, S2, Trademark Filing,5000
+L197, S2, Trademark Filing,10000
+L173,S6,Company Registration,10000
+L183,S19,Patent filing,20000
+L208,S7,NGO Registration,12000
+L44,S11,Accounting,10000
+L208,S9,Form a Society,12000
+L67,S8,PAN Card,500
+L70,S6,Company Registration,8000
+L86,S11,Accounting,10000
+L167, S2, Trademark Filing,5000
+L278,S18,Copyright Registration,5000
+L173,S13,Book-keeping,999
+L12,S9,Form a Society,24999
+L164, S1, LLP Registration,6000
+L83,S11,Accounting,12000
+L192,S3, Divorce,20000
+L171,S7,NGO Registration,25000
+L25, S2, Trademark Filing,20000
+L190,S14,Birth Certificate,1099
+L170,S20,Annual Return Filing,20000
+L103,S11,Accounting,10000
+L164,S7,NGO Registration,29000
+L5, S2, Trademark Filing,6000
+L243,S18,Copyright Registration,1000
+L208,S10,Form a Trust,20000
+L170,S12,Auditing,15000
+L183,S5,Trademark Objection,4000
+L227,S11,Accounting,12000
+L86,S8,PAN Card,400
+L1, S1, LLP Registration,6999
+L120,S6,Company Registration,14000
+L185,S8,PAN Card,200
+L290,S19,Patent filing,50000
+L253,S11,Accounting,15000
+L102,S13,Book-keeping,1200
+L118,S11,Accounting,12000
+L202,S5,Trademark Objection,6000
+L147,S15,Death Certificate,499
+L12,S7,NGO Registration,19999
+L175, S1, LLP Registration,10000
+L82,S8,PAN Card,300
+L190,S15,Death Certificate,1500
+L62,S7,NGO Registration,10000
+L3,S4, LLP Registration,15000
+L91,S15,Death Certificate,10000
+L280,S19,Patent filing,8999

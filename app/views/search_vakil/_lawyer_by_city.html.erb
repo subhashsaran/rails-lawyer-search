@@ -1,0 +1,50 @@
+<div class="row">
+	<div class="large-12 columns">
+		<table>
+		<thead>
+			<tr>
+			<th>
+				Lawyer Name
+			</th>
+			<th>
+				Lawyer Code
+
+			</th>			
+			<th>
+				Lawyer Location(city)
+			</th>			
+			<th>
+				Exp.
+			</th>	
+			<th>
+				Average Rating
+			</th>					
+			</tr>
+		</thead>
+		<tbody>
+		<%@lawyercity.each do |lawyer|%>
+		<tr>
+			<td>
+				<%=lawyer.lawyer_namestring%>
+			</td>
+			<td>
+				<%=lawyer.lawyer_code%>
+			</td>	
+			<td>
+				<%=lawyer.location%>
+			</td>	
+			<td>
+				<%=lawyer.exp%>
+			</td>	
+
+			<td>
+				<%=lawyer.average_rating%>
+			</td>												
+		</tr>
+		<%end%>
+
+		</tbody>
+		</table> 
+	</div>
+
+</div>

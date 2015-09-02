@@ -1,0 +1,36 @@
+<div class="row">
+	<div class="large-12 columns">
+		<div class="large.5 columns">
+			<h3>
+				Upload Lawyer city Data
+
+			</h3>
+			<%=link_to "upload data" ,search_vakil_upload_data_to_database_path ,:method=>:post,:class=>"button success"%>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="large-12 columns">
+		<%= form_tag search_vakil_upload_city_data_path, multipart: true do%>
+			<%= file_field_tag :file_city%>
+			<%= submit_tag "Import Data ",:class=>"button success"%>
+		<%end%>
+	</div>
+</div>
+<div class="row">
+	<div class="large-12 columns">
+		<div class="large.5 columns">
+			<h3>
+				Upload Lawyer service Data
+			</h3>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="large-12 columns">
+		<%= form_tag search_vakil_upload_service_data_path, multipart: true do%>
+			<%= file_field_tag :file_service%>
+			<%= submit_tag "Import Data ",:class=>"button success"%>
+		<%end%>
+	</div>
+</div>

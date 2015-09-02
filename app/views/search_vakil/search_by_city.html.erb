@@ -1,0 +1,25 @@
+<div class="row">
+<h2>
+	Search Lawyer by City 
+</h2>
+</div>
+<div class="row">
+	<div class="large-12 columns">
+		 <div class="large-12 columns">
+		 	Select City (Location)
+		 </div>
+		 <div class="large-12 columns">
+		 	<%= form_tag("/search_vakil/vakil_list", :method => "get") do %>
+		 	  <div class="large-12 columns">
+		 	   <%= hidden_field_tag "search_by_city",nil ,:value=>"search_by_city"%>
+		 	   
+			   <%= select_tag :location, options_from_collection_for_select(LawyerCity.all.group("location"), "id", "location"),:prompt => "Select City", :class=>"large-4 columns"%>
+			  	</div>
+			  	<div class="large-12 columns">
+			    <%= submit_tag "Search lawyer",:class=>"button success large"%>
+			  </div>
+			<% end %>
+		 </div>		 
+	</div>
+
+</div>

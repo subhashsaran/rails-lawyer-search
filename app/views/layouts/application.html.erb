@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vakil Search</title>
+ 
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+   
+  </head>
+
+  <body>
+  <div class="row">
+
+  <nav class="top-bar" data-topbar>
+   <ul class="title-area"> 
+    <li class="name"> 
+        <h1><a href="/">Vakil Search</a></h1>
+      </li>
+     </ul> 
+    
+    </nav>
+    </div>
+    <div class="row">
+      <p><%= flash[:notice] %></p>
+      <p><%= flash[:error] %></p>
+    </div>
+    <%= yield %>
+
+   
+  </body>
+</html>

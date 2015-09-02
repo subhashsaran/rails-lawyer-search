@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lawyer_code: MyString
+  service_code: MyString
+  service_name: MyString
+  service_charge: 1.5
+
+two:
+  lawyer_code: MyString
+  service_code: MyString
+  service_name: MyString
+  service_charge: 1.5

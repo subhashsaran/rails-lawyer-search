@@ -1,0 +1,14 @@
+<div class="row">
+<h2>
+	Lawyer List: -  
+</h2>
+</div>
+<%if !@lawyercity.blank?%>
+	<%= render "lawyer_by_city" %>
+<%elsif !@lawyerservice.blank? %>
+	<%= render "lawyer_by_service" %>
+<%elsif !@lawyer_city_service.blank?%>
+	<%= render "lawyer_by_city_and_service" %>
+<%else%>
+ <%= render "not_found" %>
+<%end%>
